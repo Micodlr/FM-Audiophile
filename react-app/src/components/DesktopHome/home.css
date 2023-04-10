@@ -1,0 +1,22 @@
+#main-container {
+  background-color: black;
+  height: 100vh;
+}
+header {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+#nav-links {
+  gap: 10px;
+  color: #ffffff;
+  display: flex;
+  padding: 5px;
+  width: 400px;
+}
+.nav-link {
+  color: inherit; /* use the parent element's color */
+  text-decoration: none; /* remove underline */
+}
