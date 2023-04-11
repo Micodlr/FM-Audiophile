@@ -20,3 +20,12 @@ header {
   color: inherit; /* use the parent element's color */
   text-decoration: none; /* remove underline */
 }
+#featured-product {
+  border-top: 1px solid gray;
+  padding-top: 10px;
+  margin-left: 10%;
+  background-color: black;
+  width: 82%;
+  color: whitesmoke;
+  display: flex;
+}
