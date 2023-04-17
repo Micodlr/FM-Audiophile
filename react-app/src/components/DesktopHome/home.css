@@ -29,3 +29,11 @@ header {
   color: whitesmoke;
   display: flex;
 }
+
+#new-product {
+  padding-top: 50px;
+  font-size: 30px;
+  letter-spacing: 10px;
+  color: gray;
+  font-family: Manrope;
+}

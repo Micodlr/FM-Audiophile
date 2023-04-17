@@ -30,11 +30,14 @@ function DesktopHome() {
       </header>
       <div id="featured-product">
         <div id="product-info">
-          <div></div>New product XX99 Mark II Headphones Experience natural,
-          lifelike audio and exceptional build quality made for the passionate
-          music enthusiast. See product
+          <div id="new-product">New product </div>
+          <div id="product-name"></div>XX99 Mark II Headphones
+          <div id="product-info">
+            Experience natural, lifelike audio and exceptional build quality
+            made for the passionate music enthusiast. See product
+          </div>
         </div>
-        Headphones Shop Speakers Shop Earphones Shop ZX9 speaker Upgrade to
+        {/* Headphones Shop Speakers Shop Earphones Shop ZX9 speaker Upgrade to
         premium speakers that are phenomenally built to deliver truly remarkable
         sound. See product ZX7 speaker See product YX1 earphones See product
         Bringing you the best audio gear Located at the heart of New York City,
@@ -47,7 +50,7 @@ function DesktopHome() {
         one stop to fulfill your audio needs. We're a small team of music lovers
         and sound specialists who are devoted to helping you get the most out of
         personal audio. Come and visit our demo facility - we’re open 7 days a
-        week. Copyright 2021. All Rights Reserved
+        week. Copyright 2021. All Rights Reserved */}
       </div>
     </div>
   );
